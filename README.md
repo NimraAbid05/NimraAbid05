@@ -3,7 +3,7 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f339/512.gif" alt="🌹" width="70" height="70" align="left">
 </picture>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=25&pause=1000&color=FFFFFF&vCenter=true&multiline=true&width=560&height=75&lines=Hi%2C+I+am+Nimra..!;A+Passionate+Frontend+Developer+From+Karachi%2C+Pakistan.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=25&pause=1000&&vCenter=true&multiline=true&width=560&height=75&lines=Hi%2C+I+am+Nimra..!;A+Passionate+Frontend+Developer+From+Karachi%2C+Pakistan.)](https://git.io/typing-svg)
 
 # 💫 About Me: <br>
 
